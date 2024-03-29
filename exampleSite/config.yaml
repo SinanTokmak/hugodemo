@@ -125,9 +125,9 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Könül."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
-    image: /images/hero.svg
+    subtitle: "I am an international relations student in Hungary."
+    content: "A passionate international relations. I'm thrilled about crafting impactful pieces of writing that leave a lasting impression on people."
+    image: /images/könülcüm.jpeg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
