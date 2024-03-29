@@ -139,7 +139,7 @@ params:
       newPage: false
     socialLinks:
       fontAwesomeIcons:
-        - icon: fab fa-github
+        - icon: fab fa-linkedin
           url: https://example.com
         - icon: fab fa-x-twitter
           url: https://example.com
