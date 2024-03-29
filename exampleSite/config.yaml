@@ -127,7 +127,7 @@ params:
     title: "Könül."
     subtitle: "I am an international relations student in Hungary."
     content: "A passionate international relations. I'm thrilled about crafting impactful pieces of writing that leave a lasting impression on people."
-    image: /images/könülcüm.jpeg
+    image: /images/konul.jpeg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
