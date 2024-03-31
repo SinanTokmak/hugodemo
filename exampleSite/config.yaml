@@ -53,10 +53,10 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Könül Mehdizade"
+  description: My cool blog
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/images/konul.jpeg"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -140,7 +140,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
-          url: https://example.com
+          url: https://www.linkedin.com/in/konul-mehdizadeh-828899285/
         - icon: fab fa-x-twitter
           url: https://example.com
       # customIcons:
@@ -174,13 +174,13 @@ params:
     items:
       - job: "Writer"
         company: "Evrim Ağacı"
-        companyUrl: "https://example.com"
+        companyUrl: "https://evrimagaci.org"
         date: "Jan 2024 - present"
         featuredLink:
           enable: true
           name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a writer at [Evrim Ağacı.](https://example.com) in Turkey. I am currently help people by writing articles to them."
+          url: "https://evrimagaci.org"
+        content: "I am currently working as a writer at [Evrim Ağacı.](https://evrimagaci.org/thinkerinutopia) in Turkey. I am currently help people by writing articles to them."
 
       # - job: "Software Developer"
       #   company: "Amazon"
