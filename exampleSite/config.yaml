@@ -153,7 +153,7 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am a writer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
 
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
@@ -162,6 +162,8 @@ params:
       items:
         - "English"
         - "Azerbaijani"
+        - "Russian"
+        - "Turkish"
 
   # Experience
   experience:
@@ -176,7 +178,7 @@ params:
           enable: true
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "I am currently working as a writer at [Evrim Ağacı.](https://example.com) in Turkey. I am currently help people by writing articles to them."
 
       # - job: "Software Developer"
       #   company: "Amazon"
@@ -234,12 +236,12 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "International Relations"
         school:
           name: "University of Pecs, Hungarian"
           url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+        date: "2022 - 2025"
+        GPA: "3.2 out of 4.0"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -273,7 +275,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
@@ -295,7 +297,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Hugo Profile
