@@ -1,9 +1,9 @@
 ---
-title: "Emoji Support"
-date: 2021-04-03T22:53:58+05:30
+title: "What is Social Communication Disorder?"
+date: 2024-03-31T22:53:58+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
-author: "Gurusabarish"
+github_link: "https://evrimagaci.org/blog/sosyal-iletisim-bozuklugu-nedir-17148"
+author: "Könül Mehdizadeh"
 tags:
   - Emoji support
   - Sample
