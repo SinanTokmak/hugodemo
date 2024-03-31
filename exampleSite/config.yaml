@@ -154,10 +154,10 @@ params:
     image: "/images/me.png"
     content: |-
       Me, Konul Mehdizadeh, was born in Baku, Azerbaijan, into a family where mother was a teacher and father was engineer. I finished my school and lyceum in both Azerbaijani and English. Also, I was active student during my school time, represented Azerbaijan in science fair in Izmir, Türkiye. 
-Now I am a student in University of Pecs, study International Relations BA. Also, I did my Erasmus+ Learning experience in Ankara, Hacettepe University in International Relations and Political Science 5 months. I can speak Azerbaijani, Turkish, English fluently, learning German, Hungarian and Russian.
-I have an interest in reading books, special interest on history and politics, speaking and writing on historical/political topics (actually all topics) learning new languages, translations and journalism. Also, I am very good at command Microsoft Office tools.
-My wish is to contribute to world in good way and help people from different countries and cultures.
-Thank you for your reading!
+      Now I am a student in University of Pecs, study International Relations BA. Also, I did my Erasmus+ Learning experience in Ankara, Hacettepe University in International Relations and Political Science 5 months. I can speak Azerbaijani, Turkish, English fluently, learning German, Hungarian and Russian.
+      I have an interest in reading books, special interest on history and politics, speaking and writing on historical/political topics (actually all topics) learning new languages, translations and journalism. Also, I am very good at command Microsoft Office tools.
+      My wish is to contribute to world in good way and help people from different countries and cultures.
+      Thank you for your reading!
     skills:
       enable: true
       title: "Here are a few languages I know:"
