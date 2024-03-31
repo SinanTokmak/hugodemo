@@ -1,6 +1,6 @@
 baseURL: "https://master--hugokonuldemo.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Könül Blog"
 theme: hugo-profile
 
 outputs:
